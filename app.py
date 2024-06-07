@@ -1,3 +1,6 @@
+#ALUNOS : MATHEUS SIQUEIRA | LEONARDO TELLES | YELL PREARO
+
+
 from flask import Flask, render_template, request, redirect, url_for, jsonify
 
 from azure.storage.blob import BlobServiceClient, ContainerClient
